@@ -24,26 +24,3 @@ The readers will get the opportunity to explore open-source datasets including h
 
 
 
-- Page 13 (Chapter 1): "and real estate industries **storehouse**..." _should be_ "and real estate industries **store house**..."
-
-- Page 14 (Chapter 1):  “... there are **four** observations (001, 002, 003, 004, 005).” _should be_ "... there are **five** observations (001, 002, 003, 004, 005)."
-
-# Want to become expert
-
-It is important to practice what you have learned from this book. Hence, we have created a comprehensive mobile apps where you can create a simple account and practice Exploratory Data Analysis. Here is the link to both IOS and Android app:
-
-<div style="text-align:center">
-
-
- - [App Store](https://apps.apple.com/no/app/tech-quiz/id1510190983)
- - [Practice Quiz - Web version](https://saswebtechs.com.np/categories/5e9c5bcd002d0b0004658fc9)
-</div>
-
-# Contributors
-
-- [Suresh Kumar Mukhiya](https://github.com/sureshHARDIYA)
-- [Usman Ahmed](https://github.com/usman189)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789537253">https://packt.link/free-ebook/9781789537253 </a> </p>
