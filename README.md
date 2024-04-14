@@ -23,11 +23,6 @@ The readers will get the opportunity to explore open-source datasets including h
 - Chapter 12: [Appendix: String Manipulation](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Appendix)
 
 
-# Troubleshooting with the codebase
-
-Please note we tested the codes presented in this book with the specific version of `pandas`, `matplotlib`, `python` and other Python libraries.  Running the code with a newer or older version might result in warnings and errors. If you encounter any errors, feel free to raise an [issue here](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc), and we will try our best to sort it out. 
-
-#Errata
 
 - Page 13 (Chapter 1): "and real estate industries **storehouse**..." _should be_ "and real estate industries **store house**..."
 
